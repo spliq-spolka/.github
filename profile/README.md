@@ -33,6 +33,8 @@ Key focus areas:
 Repository:
 - `taskflow-platform` (private)
 
+Status: Production release completed.
+
 ---
 
 ## Technology Stack
