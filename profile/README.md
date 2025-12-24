@@ -1,3 +1,5 @@
+<!-- Organization Profile README -->
+
 <div align="center">
 
 # SPLIQ
